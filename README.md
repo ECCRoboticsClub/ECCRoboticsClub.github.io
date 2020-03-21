@@ -1,20 +1,26 @@
 # <img src="/images/ECC Crocs logo.png" alt="logo">  ECC Robotics Introduction Webpage
 A repository uses for storing assets and updating the main website for ECC Robotics Club
 
-## Getting Started
+### Getting Started
 ECC Members who are interested in helping us decorating and contributing to the club website are most welcomed and appreciated. If you don't know how to write HTML, this is the perfect environment to learn, practice and apply your knowledge. Perchance, while you discovering the world of HTML, you could find yourself becoming a Web Developer in the future :wink:
-
+---
+### Real-Time Group Collaboration
+* https://repl.it/join/albfgxpw-periplaneta
+* Click on this link to help work on the website
+---
 ### Prerequisites
 1) A text editor, preferably something better than the normal "Notepad"
 2) Nothing else really :laughing:
+3) For real-time group collaboration, use repl.it
 ---
 ### Recommendations
 * [Notepad++](https://notepad-plus-plus.org/) - A very versatile and lightweight "better" version of the original notepad. It has built-in HTML support and even other languages. You can even code C++ for your class on it if you want to give your heart adrenaline rush :sunglasses:
 * [Git Bash](https://git-scm.com/downloads) - While using GitHub itself is easy and effortless, why not spend some extra time to dive more into the core behind GitHub and learn yourself a great tool for storing and keeping track of your future projects
 * [That One Guy On Youtube That Every People In Comp Sci Classes Know](https://www.youtube.com/watch?v=cqszz_OfAFQ&list=PLC1322B5A0180C946) - Thenewboston is a great channel that can help you start strong with your HTML if you know nothing or feeling a little bit rusty on your HTML skill. He does a lot of tutorial for other Comp Sci classes too, definitely recommend :heart_eyes:
+* [Git Game](https://github.com/git-game/git-game) - To learn more about how to use Git Bash
 ---
-## Instructions
-*The repository included template .html files that we chose to use for our website. If there's another website template that you want to use then please talks to us so we can discuss it.*
+### Instructions
+*The repository included template .html files that we chose to use for our website. If there's another website template that you want to use then please talk to us so we can discuss it.*
 
 * First you want to download our repository through either a zip file (or git clone if you know how) using the green button **Clone or Download** up there on the top right corner.
 * After you extract the zip files, you going to find around 8 files. The most important one that you'd probably be working on is the `index.html`
@@ -72,7 +78,8 @@ ECC Members who are interested in helping us decorating and contributing to the 
 ---
 ### Contributions
 *This space is waiting for your name* :smile:
-
+* Readme - Khoi N
+* Modifying code stuff - Maya Z
 ### Credits
 ##### Image Credits
 
