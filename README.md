@@ -1,4 +1,4 @@
-<img src="/images/ECC Crocs.jpg" alt="Robotics Logo" style="width=128px; height=128px;"># ECC Robotics Introduction Website
+﻿<img src="/images/ECC Crocs logo.jpg" alt="Robotics Logo" style="width=20px;height=20px;"># ECC Robotics Introduction Website
 A repository uses for storing assets and updating the main website for ECC Robotics Club
 
 ## Getting Started
@@ -26,9 +26,15 @@ ECC Members who are interested in helping us decorating and contributing to the 
                 <div class="inner">
                     <header class="special">
                         <h2>About Us</h2>
-                        <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing. Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing sed feugiat eu faucibus. Integer ac sed amet praesent. Nunc lacinia ante nunc ac gravida
+                        <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi 
+                        integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien 
+                        lorem accumsan varius montes viverra nibh in adipiscing. Lorem ipsum dolor vestibulum ante ipsum 
+                        primis in faucibus vestibulum. 
+                        Blandit adipiscing eu felis iaculis volutpat ac adipiscing sed feugiat eu faucibus. Integer ac sed 
+                        amet praesent. Nunc lacinia ante nunc ac gravida
                         <br>
-                        “Nunc lacinia ante nunc ac lobortis ipsum. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus”
+                        “Nunc lacinia ante nunc ac lobortis ipsum. Interdum adipiscing gravida odio porttitor sem non mi 
+                        integer non faucibus”
                         </br>
                         </p>
                     </header>
@@ -36,14 +42,20 @@ ECC Members who are interested in helping us decorating and contributing to the 
 > These are cutout from lines 48-59 in *index.html*. As you can see, these strings are a bunch of nonsense. If you run the *index.html* using your default browser. You can see that these few lines of texts correspondes for this segment of the webpage:
 <img src = "/images/readme_example.PNG" alt = "Example IMG">
 > Now if you change just the text inside into something like this:
+
 ```css
 <!-- Highlights -->
             <section class="wrapper">
                 <div class="inner">
                     <header class="special">
                         <h2>About Us</h2>
-                        <p>We are a group of enthusiasts in the STEM field who come together to share ideas, learn, and build robots.
-                        We are devoted to having a hands-on environment for everyone to work in, and gain experience in other fields. Additionally, our members are ready to lend a helping hand, interact with the community, and most importantly have fun while demonstrating the importance of mathematics and science.  As students join us, we would like the opportunity to work with you on upcoming events and projects. Come in and  FLEX YOUR ROBOTICS MUSCLE!!!
+                        <p>We are a group of enthusiasts in the STEM field who come together to share ideas, learn, 
+                        and build robots.
+                        We are devoted to having a hands-on environment for everyone to work in, and gain experience in 
+                        other fields. Additionally, our members are ready to lend a helping hand, interact with the 
+                        community, and most importantly have fun while demonstrating the importance of mathematics and 
+                        science.  As students join us, we would like the opportunity to work with you on upcoming events 
+                        and projects. Come in and  FLEX YOUR ROBOTICS MUSCLE!!!
                         <br>
                         “It does not matter your major robotics has a place for you!”
                         </br>
@@ -52,10 +64,12 @@ ECC Members who are interested in helping us decorating and contributing to the 
 ```
 > Now it will turn in to this if you open the *index.html* again:
 <img src = "/images/example2.PNG" alt = "Example IMG">
-> Ain't that a :cake:.
+
+> Ain't that a :cake:
 
 * When you feel like you're done with replacing all the texts. You can then push it back to your fork and make a pull request in the master repository. We will have multiples people looking at it, and if suffice, approve it to be on the club main webpage :thumpsup:
 
+---
 ### Contributions
 *This space is waiting for your name* :smile:
 
