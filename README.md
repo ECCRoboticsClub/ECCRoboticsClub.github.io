@@ -1,4 +1,4 @@
-﻿<img src="/images/ECC Crocs logo.jpg" alt="Robotics Logo" style="width=20px;height=20px;"># ECC Robotics Introduction Website
+# <img src="/images/ECC Crocs logo.png" alt="logo">  ECC Robotics Introduction Webpage
 A repository uses for storing assets and updating the main website for ECC Robotics Club
 
 ## Getting Started
